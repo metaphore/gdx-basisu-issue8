@@ -1,0 +1,17 @@
+.gradle
+.idea
+.vscode
+build
+bin
+out
+/local.properties
+robovm-build
+.DS_Store
+
+/android/libs
+/html/war
+
+# Eclipse
+.project
+.classpath
+.settings

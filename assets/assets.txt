@@ -1,0 +1,4 @@
+kodim3.basis
+libgdx.png
+screen_stuff.etc1s.basis
+screen_stuff.uastc.ktx2
